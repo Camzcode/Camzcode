@@ -45,16 +45,6 @@
 ![Git](https://img.shields.io/badge/Git-f9a8d4?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-f0abfc?style=for-the-badge&logo=github&logoColor=white)
 
----
-
-### 💜 Comunidade & propósito
-
-Faço parte das voluntárias da **Connect Byte** 👩‍💻✨  
-Uma comunidade voltada para mulheres na tecnologia 💕
-
-🔗 https://github.com/Connect-Byte-Hangout
-
-Acredito no poder da colaboração, do acolhimento e da representatividade para abrir mais caminhos para mulheres na área tech ✨
 
 ---
 
